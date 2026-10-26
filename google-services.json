@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "76130901796",
+    "project_id": "mobile-auth-notif-480c0",
+    "storage_bucket": "mobile-auth-notif-480c0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76130901796:android:086a15fad0eedd8488ddb1",
+        "android_client_info": {
+          "package_name": "id.ac.uinsa.mobileauthnotif"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg2YEL3X07mOLRQFXf0TbzvkkaugIFVUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
